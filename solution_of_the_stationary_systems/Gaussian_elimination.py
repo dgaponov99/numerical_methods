@@ -24,8 +24,8 @@ def solve(A, b):
     return ans
 
 
-A, b = get_bad(5, 2, 5 * 10 ** -7)
+# A, b = get_bad(5, 2, 5 * 10 ** -7)
 # A, b = get_good()
-print(A)
-print(b)
-print(solve(A, b))
+# print(A)
+# print(b)
+# print(solve(A, b))
